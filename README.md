@@ -67,9 +67,9 @@ A command starting with $var should be immediately followed by =value. (Note: no
 
 ## Screenshots
 
-![Example screenshot1](./images/pic1.png)
+![Example screenshot1](./images/image1.png)
 
-![Example screenshot1](./images/pic2.png)
+![Example screenshot1](./images/image2.png)
 
 
 ## Usage
